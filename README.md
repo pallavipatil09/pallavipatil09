@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi 👋, I'm Pallavi Patil
+# Hi , I'm Pallavi Patil
+
+### Aspiring Data Analyst | SQL | Excel | Power BI | Python | Tableau
 
 > **"Without data, you're just another person with an opinion."**  
 > — *W. Edwards Deming*
-
-### Aspiring Data Analyst | SQL | Excel | Power BI | Python | Tableau
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=2500&pause=800&color=2F80ED&center=true&vCenter=true&width=700&lines=Turning+Data+into+Decisions;Aspiring+Data+Analyst;Building+Dashboards+%26+Solving+Business+Problems;SQL+%7C+Excel+%7C+Power+BI+%7C+Python" />
 
@@ -15,11 +15,12 @@
 
 ## 💫 About Me
 
-- 🎓 B.Sc. IT Graduate
-- 📊 Aspiring Data Analyst passionate about solving business problems with data
-- 💡 Skilled in SQL, Excel, Power BI, Python, and Tableau
-- 📈 Interested in dashboards, reporting, data cleaning, and analysis
-- 🚀 Currently building practical projects for Data Analyst roles
+- 🎓 B.Sc. IT Graduate  
+- 📊 Aspiring Data Analyst focused on solving business problems through data  
+- 💡 Skilled in SQL, Excel, Power BI, Python, and Tableau  
+- 📈 Interested in dashboards, reporting, data cleaning, and business insights  
+- 🚀 Building practical projects for Data Analyst opportunities  
+- 🌱 Continuous learner with a growth mindset  
 
 ---
 
@@ -41,21 +42,58 @@
 
 ## 🚀 Featured Projects
 
-- 📊 Amazon Sales Analysis  
-- 📈 Power BI Dashboard  
-- 🗄 SQL Project – Phone Rental Management System  
-- 📑 Excel Dashboard Projects
+### 📊 Amazon Sales Analysis
+Analyzed 50,000+ sales records using Python to identify trends, revenue patterns, customer behavior, and business insights.
+
+### 📈 Power BI Business Dashboard
+Built an interactive dashboard using charts, slicers, drill-down, relationships, and KPIs for better decision-making.
+
+### 🗄️ PRENT – Phone Rental Management System
+Designed a SQL database with tables, joins, constraints, and queries to manage rentals, customers, payments, and reports.
+
+### 📑 Excel Sales Dashboard
+Created an Excel dashboard using Pivot Tables, charts, slicers, formulas, and KPI cards to track performance.
+
+### 📉 Customer Churn Analysis
+Analyzed customer churn data to identify reasons for attrition and key retention opportunities using Excel / Power BI.
+
+### 🐍 Python Practice Repository
+Uploaded Python fundamentals, loops, functions, data structures, and logic-building programs for continuous learning.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=pallavipatil09&show_icons=true&theme=transparent&title_color=2F80ED)
+<div align="center">
+
+![Pallavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallavipatil09&show_icons=true&theme=transparent&title_color=2F80ED&icon_color=2F80ED&text_color=1F2937&border_color=93C5FD)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pallavipatil09&layout=compact&theme=transparent&title_color=2F80ED&text_color=1F2937&border_color=93C5FD)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pallavipatil09&theme=default&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&border=93C5FD)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening Python for analytics  
+- Practicing SQL and database concepts
+- Improving Power BI dashboard skills  
+- Building strong portfolio projects  
+- Preparing for Data Analyst opportunities  
+
+---
+
+## 🌟 Personal Motto
+
+> **Learn continuously, build confidently, grow consistently.**
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile 💙
+###  Thanks for visiting my profile.!!
 
 </div>
