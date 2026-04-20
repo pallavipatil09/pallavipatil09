@@ -78,10 +78,10 @@ Uploaded Python fundamentals, loops, functions, data structures, and logic-build
 
 ## 🎯 Current Focus
 
+- Strengthening Python for analytics 
+- Practicing SQL and database concepts
 - Improving Power BI dashboard skills  
-- Practicing SQL and database concepts  
 - Building strong portfolio projects  
-- Strengthening Python for analytics  
 - Preparing for Data Analyst opportunities  
 
 ---
@@ -94,6 +94,6 @@ Uploaded Python fundamentals, loops, functions, data structures, and logic-build
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile 💙
+###  Thanks for visiting my profile.!!
 
 </div>
