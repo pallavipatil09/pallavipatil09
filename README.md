@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 # Hi 👋, I'm Pallavi Patil
@@ -7,7 +8,7 @@
 > **"Without data, you're just another person with an opinion."**  
 > — *W. Edwards Deming*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=2500&pause=800&color=2F80ED&center=true&vCenter=true&width=700&lines=Turning+Data+into+Decisions;Aspiring+Data+Analyst;Building+Dashboards+%26+Solving+Business+Problems;SQL+%7C+Excel+%7C+Power+BI+%7C+Python" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=2500&pause=800&color=2F80ED&center=true&vCenter=true&width=700&lines=Turning+Data+into+Decisions;Aspiring+Data+Analyst;Building+Dashboards+%26+Solving+Business+Problems;SQL+%7C+Excel+%7C+Power+BI+%7C+Python+%7C+Tableau" />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/patilpallavianil">
@@ -22,9 +23,9 @@
 ## 💫 About Me
 
 - 🎓 B.Sc. IT Graduate  
-- 📊 Aspiring Data Analyst focused on solving business problems through data  
+- 📊 Aspiring Data Analyst passionate about solving business problems through data  
 - 💡 Skilled in SQL, Excel, Power BI, Python, and Tableau  
-- 📈 Interested in dashboards, reporting, data cleaning, and business insights  
+- 📈 Interested in dashboards, reporting, data cleaning, and insights generation  
 - 🚀 Building practical projects for Data Analyst opportunities  
 - 🌱 Continuous learner with a growth mindset  
 
@@ -42,23 +43,23 @@
 
 ## 🚀 Featured Projects
 
-### 📈 Power BI Business Dashboard
-Built an interactive dashboard using charts, slicers, drill-down, relationships, and KPI cards for business reporting and decision-making.
+### 📌 Urban Air Quality & Health Risk Analyzer
+End-to-end analytics project using Python, EDA, Power BI, and DAX to analyze AQI trends and health risks across Indian cities.
 
-### 📊 Amazon Sales Analysis
-Analyzed 50,000+ sales records using Python, Pandas, and visualization libraries to identify trends, revenue patterns, and customer behavior.
+### 📈 Amazon Sales Analysis
+Analyzed 50,000+ sales records using Python, Pandas, Matplotlib, and Seaborn to identify revenue trends, customer behavior, and product performance.
+
+### 📉 Customer Churn Dashboard
+Interactive Excel dashboard built using Pivot Tables, KPIs, Charts, and Slicers to identify churn patterns and retention insights.
 
 ### 🗄️ PRENT – Phone Rental Management System
-Designed a SQL database with tables, joins, constraints, and queries to manage rentals, customers, payments, and reports.
+Designed a SQL database project using tables, joins, constraints, relationships, and queries for rental management and reporting.
 
-### 📑 Excel Sales Dashboard
-Created dashboards using Pivot Tables, charts, slicers, formulas, conditional formatting, and KPI cards to track performance.
-
-### 📉 Customer Churn Analysis
-Analyzed churn data to identify reasons for customer attrition and retention opportunities using Excel / Power BI.
+### 📊 Breast Cancer Dashboard
+Interactive Excel healthcare dashboard built using charts, slicers, KPIs, and data analysis techniques to identify diagnosis patterns.
 
 ### 🐍 Python Practice Repository
-Uploaded Python fundamentals, loops, functions, data structures, and logic-building programs for continuous learning.
+Collection of Python programs covering loops, functions, data structures, logic building, and problem-solving exercises.
 
 ---
 
@@ -66,7 +67,7 @@ Uploaded Python fundamentals, loops, functions, data structures, and logic-build
 
 <div align="center">
 
-![Pallavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallavipatil09&show_icons=true&theme=transparent&title_color=2F80ED&icon_color=2F80ED&text_color=1F2937&border_color=93C5FD)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallavipatil09&show_icons=true&theme=transparent&title_color=2F80ED&icon_color=2F80ED&text_color=1F2937&border_color=93C5FD)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pallavipatil09&layout=compact&theme=transparent&title_color=2F80ED&text_color=1F2937&border_color=93C5FD)
 
@@ -78,10 +79,10 @@ Uploaded Python fundamentals, loops, functions, data structures, and logic-build
 
 ## 🎯 Current Focus
 
-- Strengthening Python for analytics 
-- Practicing SQL and database concepts
+- Strengthening Python for analytics  
+- Practicing SQL and database concepts  
 - Improving Power BI dashboard skills  
-- Building strong portfolio projects  
+- Building portfolio projects  
 - Preparing for Data Analyst opportunities  
 
 ---
@@ -94,6 +95,7 @@ Uploaded Python fundamentals, loops, functions, data structures, and logic-build
 
 <div align="center">
 
-###  Thanks for visiting my profile.!!
+### Thanks for visiting my profile!
 
 </div>
+```
