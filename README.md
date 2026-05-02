@@ -22,43 +22,60 @@
 ## 💫 About Me
 
 - 🎓 B.Sc. IT Graduate  
-- 📊 Aspiring Data Analyst focused on solving business problems through data  
-- 💡 Skilled in SQL, Excel, Power BI, Python, and Tableau  
-- 📈 Interested in dashboards, reporting, data cleaning, and business insights  
-- 🚀 Building practical projects for Data Analyst opportunities  
-- 🌱 Continuous learner with a growth mindset  
+- 📊 Passionate about Data Analytics & Business Insights  
+- 🛠️ Skilled in SQL, Python, Excel, Power BI  
+- 📈 Interested in Data Visualization & Dashboarding  
+- 🚀 Currently building real-world data projects  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack  
 
-![SQL](https://img.shields.io/badge/SQL-0F62FE?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-0F62FE?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-0F62FE?style=for-the-badge&logo=powerbi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0F62FE?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-0F62FE?style=for-the-badge&logo=tableau&logoColor=white)
-
----
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![Excel](https://img.shields.io/badge/Excel-Analysis-green)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-orange)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-blueviolet)
 
 ## 🚀 Featured Projects
 
-### 📌 Urban Air Quality & Health Risk Analyzer
-End-to-end analytics project using Python, EDA, Power BI, and DAX to analyze AQI trends and health risks across Indian cities.
+### 🌍 [Urban Air Quality & Health Risk Analyzer](https://github.com/pallavipatil09/urban-air-quality-health-risk-analyzer)
+![Python](https://img.shields.io/badge/Python-EDA-blue) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-yellow) ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Analysis-lightgrey) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green) ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Viz-purple)
 
-### 📈 Amazon Sales Analysis
-Analyzed 50,000+ sales records using Python, Pandas, Matplotlib, and Seaborn to identify revenue trends, customer behavior, and product performance.
+End-to-end analytics project integrating AQI, weather, and health data to identify high-risk cities and environmental health impacts.  
 
-### 🗄️ PRENT – Phone Rental Management System
-Designed a SQL database project using tables, joins, constraints, relationships, and queries for rental management and reporting.
+---
 
-### 📊 Breast Cancer Dashboard
-Interactive Excel healthcare dashboard built using charts, slicers, KPIs, and data analysis techniques to identify diagnosis patterns.
+### 🌟 [India Health Expenditure Tracker](https://github.com/pallavipatil09/India-Health-Expenditure-Tracker)
+![Python](https://img.shields.io/badge/Python-EDA-blue) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-yellow) ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Analysis-lightgrey) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green) ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Viz-purple)
+![Excel](https://img.shields.io/badge/Excel-Data%20Handling-green)
 
-### 📉 Customer Churn Dashboard
-Interactive Excel dashboard built using Pivot Tables, KPIs, Charts, and Slicers to identify churn patterns and retention insights.
+Processed and analyzed healthcare data using **Python (Pandas)** for cleaning and transformation, and built an interactive **Power BI dashboard** using Excel/CSV data to uncover insights on healthcare performance across Indian states.  
 
-### 🐍 Python Practice Repository
-Collection of Python programs covering loops, functions, data structures, logic building, and problem-solving exercises.
+---
+
+### 📈 [Amazon Sales Analysis](https://github.com/pallavipatil09/amazon-sales-analysis)  
+![Python](https://img.shields.io/badge/Python-EDA-blue) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-yellow) ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Analysis-lightgrey) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green) ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Viz-purple)
+
+Performed **Exploratory Data Analysis (EDA)** on 50,000+ records using Python to identify **revenue trends, customer behavior, and product performance**, supported by insightful visualizations and data-driven findings.
+
+---
+
+### 🗄️ [PRent – Phone Rental Management System](https://github.com/pallavipatil09/PRENT-Phone-Rental-and-Payment-Management-System-)  
+![SQL](https://img.shields.io/badge/SQL-Database-blue) ![MySQL](https://img.shields.io/badge/MySQL-Project-orange)  
+Production-level SQL project with normalized schema, triggers, procedures, and reporting views for rental management.  
+
+---
+
+### 📉 [Employee Management Database System](https://github.com/pallavipatil09/employee-management-database-system)
+![SQL](https://img.shields.io/badge/SQL-Database-blue) ![MySQL](https://img.shields.io/badge/MySQL-Project-orange)  
+Advanced SQL project for managing employees, departments, salaries, attendance, leaves, and performance reporting.  
+
+---
+
+### 📉 [Customer Churn Dashboard](https://github.com/pallavipatil09/customer-churn-dashboard-excel)
+![Excel](https://img.shields.io/badge/Excel-Dashboard-green) ![Analytics](https://img.shields.io/badge/Business-Insights-blue)  
+Interactive Excel dashboard analyzing churn patterns, customer behavior, and retention insights.  
 
 ---
 
@@ -92,8 +109,5 @@ Collection of Python programs covering loops, functions, data structures, logic 
 
 ---
 
-<div align="center">
-
-###  Thanks for visiting my profile.!!
-
-</div>
+## ⭐ If you like my work  
+Give a ⭐ to my repositories and connect with me!
