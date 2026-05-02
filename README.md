@@ -1,19 +1,21 @@
 <div align="center">
 
-# Hi 👋, I'm Pallavi Patil
+<h1>Hi 👋, I'm Pallavi Patil</h1>
 
-### Aspiring Data Analyst | SQL | Excel | Power BI | Python | Tableau
+<h3>Aspiring Data Analyst | SQL | Excel | Power BI | Python | Tableau</h3>
 
-> **"Without data, you're just another person with an opinion."**  
-> — *W. Edwards Deming*
+<p><em>"Without data, you're just another person with an opinion."</em></p>
+<p><strong>— W. Edwards Deming</strong></p>
+
+<br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=2500&pause=800&color=2F80ED&center=true&vCenter=true&width=700&lines=Turning+Data+into+Decisions;Aspiring+Data+Analyst;Building+Dashboards+%26+Solving+Business+Problems;SQL+%7C+Excel+%7C+Power+BI+%7C+Python" />
 
-<p align="center">
+<br><br>
+
 <a href="https://www.linkedin.com/in/patilpallavianil">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
 
 </div>
 
@@ -79,17 +81,21 @@ Interactive Excel dashboard analyzing churn patterns, customer behavior, and ret
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pallavipatil09&show_icons=true&theme=transparent&title_color=2F80ED&icon_color=2F80ED&text_color=1F2937&border_color=93C5FD" height="170"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavipatil09&layout=compact&theme=transparent&title_color=2F80ED&text_color=1F2937&border_color=93C5FD" height="170"/>
+</p>
 
-![Pallavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallavipatil09&show_icons=true&theme=transparent&title_color=2F80ED&icon_color=2F80ED&text_color=1F2937&border_color=93C5FD)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pallavipatil09&theme=default&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&border=93C5FD" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pallavipatil09&layout=compact&theme=transparent&title_color=2F80ED&text_color=1F2937&border_color=93C5FD)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pallavipatil09&theme=default&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&border=93C5FD)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallavipatil09&theme=github" />
+</p>
 
 ---
 
