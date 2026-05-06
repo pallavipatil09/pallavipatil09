@@ -1,21 +1,26 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Pallavi Patil</h1>
+# Hi 👋, I'm Pallavi Patil
 
-<h3>Aspiring Data Analyst | SQL | Excel | Power BI | Python | Tableau</h3>
+### Aspiring Data Analyst | AI/ML Enthusiast
 
-<p><em>"Without data, you're just another person with an opinion."</em></p>
-<p><strong>— W. Edwards Deming</strong></p>
+SQL • Excel • Power BI • Tableau • Python • Machine Learning
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=2500&pause=800&color=2F80ED&center=true&vCenter=true&width=700&lines=Turning+Data+into+Decisions;Aspiring+Data+Analyst;Building+Dashboards+%26+Solving+Business+Problems;SQL+%7C+Excel+%7C+Power+BI+%7C+Python" />
+> *"Without data, you're just another person with an opinion."*  
+> **— W. Edwards Deming**
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=2500&pause=800&color=2F80ED&center=true&vCenter=true&width=850&lines=Turning+Data+into+Decisions;Aspiring+Data+Analyst+%26+AI%2FML+Enthusiast;Building+Analytics+%26+Machine+Learning+Projects;SQL+%7C+Excel+%7C+Power+BI+%7C+Python" />
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/patilpallavianil">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 
 </div>
 
@@ -24,20 +29,31 @@
 ## 💫 About Me
 
 - 🎓 B.Sc. IT Graduate  
-- 📊 Passionate about Data Analytics & Business Insights  
-- 🛠️ Skilled in SQL, Python, Excel, Power BI  
-- 📈 Interested in Data Visualization & Dashboarding  
-- 🚀 Currently building real-world data projects  
+- 📊 Passionate about Data Analytics, AI & Machine Learning  
+- 🛠️ Skilled in SQL, Python, Excel, Power BI & Machine Learning Basics  
+- 📈 Interested in Data Visualization, Predictive Analytics & Dashboarding  
+- 🤖 Currently learning and building Machine Learning projects  
+- 🚀 Building real-world analytics and ML portfolio projects  
 
 ---
 
-## 🛠️ Tech Stack  
+## 💻 Tech Stack
 
-![SQL](https://img.shields.io/badge/SQL-Database-blue)
-![Excel](https://img.shields.io/badge/Excel-Analysis-green)
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow)
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-orange)
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-blueviolet)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-1F3B73?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  
+  <img src="https://img.shields.io/badge/MySQL-2C5D87?style=for-the-badge&logo=mysql&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Pandas-240046?style=for-the-badge&logo=pandas&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/NumPy-003049?style=for-the-badge&logo=numpy&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Scikit--Learn-F77F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -69,9 +85,12 @@ Production-level SQL project with normalized schema, triggers, procedures, and r
 
 ---
 
-### 📉 [Employee Management Database System](https://github.com/pallavipatil09/employee-management-database-system)
-![SQL](https://img.shields.io/badge/SQL-Database-blue) ![MySQL](https://img.shields.io/badge/MySQL-Project-orange)  
-Advanced SQL project for managing employees, departments, salaries, attendance, leaves, and performance reporting.  
+### 🏠 [House Price Prediction using Linear Regression](https://github.com/pallavipatil09/house-price-prediction-ml)
+![Python](https://img.shields.io/badge/Python-Machine%20Learning-blue)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-Regression-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Handling-yellow)
+
+Machine Learning project that predicts house prices based on area and number of bedrooms using Linear Regression and data visualization techniques.
 
 ---
 
@@ -79,7 +98,7 @@ Advanced SQL project for managing employees, departments, salaries, attendance, 
 ![Excel](https://img.shields.io/badge/Excel-Dashboard-green) ![Analytics](https://img.shields.io/badge/Business-Insights-blue)  
 Interactive Excel dashboard analyzing churn patterns, customer behavior, and retention insights.  
 
----
+---  
 
 ## 📊 GitHub Stats  
 
@@ -97,15 +116,18 @@ Interactive Excel dashboard analyzing churn patterns, customer behavior, and ret
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallavipatil09&theme=github" />
 </p>
 
+
 ---
 
 ## 🎯 Current Focus
 
-- Strengthening Python for analytics 
+- Strengthening Python for analytics & ML
+- Learning Machine Learning algorithms
 - Practicing SQL and database concepts
 - Improving Power BI dashboard skills  
-- Building strong portfolio projects  
-- Preparing for Data Analyst opportunities  
+- Building end-to-end analytics & ML projects
+- Preparing for Data Analyst & AI/ML opportunities
+
 
 ---
 
