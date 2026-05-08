@@ -57,6 +57,19 @@ SQL • Excel • Power BI • Tableau • Python • Machine Learning
 
 ## 🚀 Featured Projects
 
+### 📊 [Customer Churn Prediction using Machine Learning](https://github.com/pallavipatil09/customer-churn-prediction-ml)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge)
+![Logistic Regression](https://img.shields.io/badge/Model-Logistic%20Regression-green?style=for-the-badge)
+
+Machine Learning project that predicts whether a customer is likely to churn or stay using Logistic Regression, feature scaling, encoding, model evaluation, confusion matrix, and data visualization techniques.
+
+---
+
 ### 🌍 [Urban Air Quality & Health Risk Analyzer](https://github.com/pallavipatil09/urban-air-quality-health-risk-analyzer)
 ![Python](https://img.shields.io/badge/Python-EDA-blue) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-yellow) ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Analysis-lightgrey) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green) ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Viz-purple)
 
@@ -71,20 +84,6 @@ End-to-end analytics project integrating AQI, weather, and health data to identi
 Processed and analyzed healthcare data using **Python (Pandas)** for cleaning and transformation, and built an interactive **Power BI dashboard** using Excel/CSV data to uncover insights on healthcare performance across Indian states.  
 
 ---
-
-### 📈 [Amazon Sales Analysis](https://github.com/pallavipatil09/amazon-sales-analysis)  
-![Python](https://img.shields.io/badge/Python-EDA-blue) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-yellow) ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Analysis-lightgrey) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green) ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Viz-purple)
-
-Performed **Exploratory Data Analysis (EDA)** on 50,000+ records using Python to identify **revenue trends, customer behavior, and product performance**, supported by insightful visualizations and data-driven findings.
-
----
-
-### 🗄️ [PRent – Phone Rental Management System](https://github.com/pallavipatil09/PRENT-Phone-Rental-and-Payment-Management-System-)  
-![SQL](https://img.shields.io/badge/SQL-Database-blue) ![MySQL](https://img.shields.io/badge/MySQL-Project-orange)  
-Production-level SQL project with normalized schema, triggers, procedures, and reporting views for rental management.  
-
----
-
 ### 🏠 [House Price Prediction using Linear Regression](https://github.com/pallavipatil09/house-price-prediction-ml)
 ![Python](https://img.shields.io/badge/Python-Machine%20Learning-blue)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-Regression-orange)
@@ -94,11 +93,11 @@ Machine Learning project that predicts house prices based on area and number of 
 
 ---
 
-### 📉 [Customer Churn Dashboard](https://github.com/pallavipatil09/customer-churn-dashboard-excel)
-![Excel](https://img.shields.io/badge/Excel-Dashboard-green) ![Analytics](https://img.shields.io/badge/Business-Insights-blue)  
-Interactive Excel dashboard analyzing churn patterns, customer behavior, and retention insights.  
+### 🗄️ [PRent – Phone Rental Management System](https://github.com/pallavipatil09/PRENT-Phone-Rental-and-Payment-Management-System-)  
+![SQL](https://img.shields.io/badge/SQL-Database-blue) ![MySQL](https://img.shields.io/badge/MySQL-Project-orange)  
+Production-level SQL project with normalized schema, triggers, procedures, and reporting views for rental management.  
 
----  
+---
 
 ## 📊 GitHub Stats  
 
