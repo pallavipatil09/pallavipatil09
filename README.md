@@ -80,15 +80,16 @@ Machine Learning project that predicts whether a customer is likely to churn or 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Visualization](https://img.shields.io/badge/Visualization-8BC34A?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4E342E?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Analytics](https://img.shields.io/badge/Analytics-7B1FA2?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-7B1FA2?style=for-the-badge)
 
 End-to-end analytics project integrating AQI, weather, and health data to identify high-risk cities and environmental health impacts.
 
 ---
 
 ### 🌟 [India Health Expenditure Tracker](https://github.com/pallavipatil09/India-Health-Expenditure-Tracker)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-0288D1?style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white) ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FBC02D?style=for-the-badge) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Visualization](https://img.shields.io/badge/Visualization-8BC34A?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-4E342E?style=for-the-badge) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-0288D1?style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white) ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FBC02D?style=for-the-badge) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Visualization](https://img.shields.io/badge/Visualization-8BC34A?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-4E342E?style=for-the-badge) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-7B1FA2?style=for-the-badge)
 
 Processed and analyzed healthcare data using **Python (Pandas)** for cleaning and transformation, and built an interactive **Power BI dashboard** using Excel/CSV data to uncover insights on healthcare performance across Indian states.  
 
@@ -106,7 +107,21 @@ Machine Learning project that predicts house prices based on area and number of 
 Production-level SQL project with normalized schema, triggers, procedures, and reporting views for rental management.  
 
 ---
+### 📈 [Sales Performance Dashboard using Power BI](https://github.com/pallavipatil09/powerbi_mini_project)
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black) ![Dashboard](https://img.shields.io/badge/Dashboard-0288D1?style=for-the-badge) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-00897B?style=for-the-badge) ![Sales Analysis](https://img.shields.io/badge/Sales%20Analysis-F57C00?style=for-the-badge) ![KPIs](https://img.shields.io/badge/KPIs-455A64?style=for-the-badge) ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
+
+Power BI dashboard project using Sales, Products, and Area tables to analyze revenue, product performance, regional sales trends, KPIs, and business insights.
+
+---
+### 📊 [Customer Churn Dashboard using Excel](https://github.com/pallavipatil09/customer-churn-dashboard-excel)
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white) ![Dashboard](https://img.shields.io/badge/Dashboard-0288D1?style=for-the-badge) ![Business Analytics](https://img.shields.io/badge/Business%20Analytics-7B1FA2?style=for-the-badge) ![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-F57C00?style=for-the-badge) ![KPIs](https://img.shields.io/badge/KPIs-00897B?style=for-the-badge) ![Charts](https://img.shields.io/badge/Charts-8BC34A?style=for-the-badge) ![Slicers](https://img.shields.io/badge/Slicers-C2185B?style=for-the-badge)
+
+
+Interactive Excel dashboard analyzing customer churn patterns, retention trends, and customer behavior using Pivot Tables, KPIs, charts, and slicers.
+
+---
 ## 📊 GitHub Stats  
 
 <p align="center">
