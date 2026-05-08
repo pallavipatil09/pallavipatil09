@@ -57,19 +57,6 @@ SQL • Excel • Power BI • Tableau • Python • Machine Learning
 
 ## 🚀 Featured Projects
 
-### 📊 [Customer Churn Prediction using Machine Learning](https://github.com/pallavipatil09/customer-churn-prediction-ml)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge)
-![Logistic Regression](https://img.shields.io/badge/Model-Logistic%20Regression-green?style=for-the-badge)
-
-Machine Learning project that predicts whether a customer is likely to churn or stay using Logistic Regression, feature scaling, encoding, model evaluation, confusion matrix, and data visualization techniques.
-
----
-
 ### 🌍 [Urban Air Quality & Health Risk Analyzer](https://github.com/pallavipatil09/urban-air-quality-health-risk-analyzer)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
@@ -94,6 +81,20 @@ End-to-end analytics project integrating AQI, weather, and health data to identi
 Processed and analyzed healthcare data using **Python (Pandas)** for cleaning and transformation, and built an interactive **Power BI dashboard** using Excel/CSV data to uncover insights on healthcare performance across Indian states.  
 
 ---
+
+### 📊 [Customer Churn Prediction using Machine Learning](https://github.com/pallavipatil09/customer-churn-prediction-ml)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge)
+![Logistic Regression](https://img.shields.io/badge/Model-Logistic%20Regression-green?style=for-the-badge)
+
+Machine Learning project that predicts whether a customer is likely to churn or stay using Logistic Regression, feature scaling, encoding, model evaluation, confusion matrix, and data visualization techniques.
+
+---
+
 ### 🏠 [House Price Prediction using Linear Regression](https://github.com/pallavipatil09/house-price-prediction-ml)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7B1FA2?style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Visualization](https://img.shields.io/badge/Visualization-8BC34A?style=for-the-badge) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white) ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-00897B?style=for-the-badge)
 
