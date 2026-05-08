@@ -71,30 +71,38 @@ Machine Learning project that predicts whether a customer is likely to churn or 
 ---
 
 ### 🌍 [Urban Air Quality & Health Risk Analyzer](https://github.com/pallavipatil09/urban-air-quality-health-risk-analyzer)
-![Python](https://img.shields.io/badge/Python-EDA-blue) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-yellow) ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Analysis-lightgrey) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green) ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Viz-purple)
 
-End-to-end analytics project integrating AQI, weather, and health data to identify high-risk cities and environmental health impacts.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-0288D1?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FBC02D?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Visualization](https://img.shields.io/badge/Visualization-8BC34A?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4E342E?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Analytics](https://img.shields.io/badge/Analytics-7B1FA2?style=for-the-badge)
+
+End-to-end analytics project integrating AQI, weather, and health data to identify high-risk cities and environmental health impacts.
 
 ---
 
 ### 🌟 [India Health Expenditure Tracker](https://github.com/pallavipatil09/India-Health-Expenditure-Tracker)
-![Python](https://img.shields.io/badge/Python-EDA-blue) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-yellow) ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Analysis-lightgrey) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green) ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Viz-purple)
-![Excel](https://img.shields.io/badge/Excel-Data%20Handling-green)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-0288D1?style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white) ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FBC02D?style=for-the-badge) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Visualization](https://img.shields.io/badge/Visualization-8BC34A?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-4E342E?style=for-the-badge) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 
 Processed and analyzed healthcare data using **Python (Pandas)** for cleaning and transformation, and built an interactive **Power BI dashboard** using Excel/CSV data to uncover insights on healthcare performance across Indian states.  
 
 ---
 ### 🏠 [House Price Prediction using Linear Regression](https://github.com/pallavipatil09/house-price-prediction-ml)
-![Python](https://img.shields.io/badge/Python-Machine%20Learning-blue)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-Regression-orange)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Handling-yellow)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7B1FA2?style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Visualization](https://img.shields.io/badge/Visualization-8BC34A?style=for-the-badge) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white) ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-00897B?style=for-the-badge)
 
 Machine Learning project that predicts house prices based on area and number of bedrooms using Linear Regression and data visualization techniques.
 
 ---
 
 ### 🗄️ [PRent – Phone Rental Management System](https://github.com/pallavipatil09/PRENT-Phone-Rental-and-Payment-Management-System-)  
-![SQL](https://img.shields.io/badge/SQL-Database-blue) ![MySQL](https://img.shields.io/badge/MySQL-Project-orange)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white) ![Database](https://img.shields.io/badge/Database%20Design-7B1FA2?style=for-the-badge) ![Normalization](https://img.shields.io/badge/Normalization-00897B?style=for-the-badge) ![Joins](https://img.shields.io/badge/SQL%20Joins-F57C00?style=for-the-badge) ![Stored Procedures](https://img.shields.io/badge/Stored%20Procedures-5D4037?style=for-the-badge) ![Triggers](https://img.shields.io/badge/Triggers-C2185B?style=for-the-badge) ![Views](https://img.shields.io/badge/Views-0288D1?style=for-the-badge)
+
 Production-level SQL project with normalized schema, triggers, procedures, and reporting views for rental management.  
 
 ---
